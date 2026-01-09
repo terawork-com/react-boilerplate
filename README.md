@@ -1,14 +1,14 @@
 # Technical Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Stack & Tools
+
 Required: React (Create React App or Vite)
 State Management: useState/useReducer (Context API is optional)
 Styling: CSS/Tailwind/Styled Components (your choice)
 Optional: TypeScript, React Query, Zustand
 
 ## Setup Instructions
+
 Clone this repository
 Create a branch with your name {hyphen(-) separated , all lowercase}
 Build your solution
