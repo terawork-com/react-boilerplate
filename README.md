@@ -1,10 +1,12 @@
 
-THE CHALLENGE
-Build a Freelancer Marketplace Booking Interface
+# THE CHALLENGE
+
+## Build a Freelancer Marketplace Booking Interface
 You are building a key feature for TERAWORK's freelance marketplace: a freelancer listing page with booking functionality. This will test your React skills, state management, and understanding of marketplace dynamics.
-Part 1: Freelancer Cards Component (30 minutes)
+
+### Part 1: Freelancer Cards Component (30 minutes)
 Build a responsive freelancer listing page with the following features:
-Required Features
+### Required Features
 Display Freelancer Cards
 Create a component that displays freelancer information in a card format. Each card should show:
 Profile picture
@@ -22,10 +24,12 @@ Sort by price (Low to High / High to Low)
 Search Functionality
 Add a search bar that filters freelancers by name or title in real-time
 
-Part 2: Booking Modal (30 minutes)
+### Part 2: Booking Modal (30 minutes)
 Create a booking modal that opens when 'Book Now' is clicked:
-Modal Design
+
+### Modal Design
 The modal should contain:
+
 Freelancer's name and title
 Project title field (text input)
 Project description field (textarea)
